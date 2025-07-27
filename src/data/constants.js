@@ -6,6 +6,7 @@ export const Bio = {
     "Mentor",
     "UI/UX Developer",
     "C/C++ Programmer",
+    "Python Programmer"
   ],
   description:
     "I’m a motivated and adaptable individual with a strong passion for learning and growth. I thrive on challenges and take pride in delivering high-quality results. With a proactive mindset and a positive attitude, I’m committed to making meaningful contributions and continuously improving in everything I do.",
