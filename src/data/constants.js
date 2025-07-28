@@ -498,18 +498,18 @@ export const projects = [
     github: "https://github.com/ArpitDabas007/Maze_Game",
     webapp: "https://youtu.be/d7JcYSZbrU8",
   },
-  {
-    id: 9,
-    title: "BudgetApp",
-    date: "Aug 2024 - Dec 2024",
-    description:
-      "A responsive web-based Budget App built using HTML, CSS, and JavaScript that enables users to track income and expenses in real-time. Features include dynamic UI updates, data validation, and interactive charts. Deployed using GitHub Pages for seamless access and 99.9% uptime.",
-    image:
-      "https://raw.githubusercontent.com/arpitbaghla/budget/refs/heads/main/Screenshot%202025-06-15%20at%2022.45.02.png",
-    category: "web app",
-    github: "https://github.com/arpitbaghla/budget/",
-    webapp: "https://arpitbaghla.github.io/budget/",
-  },
+  // {
+  //   id: 9,
+  //   title: "BudgetApp",
+  //   date: "Aug 2024 - Dec 2024",
+  //   description:
+  //     "A responsive web-based Budget App built using HTML, CSS, and JavaScript that enables users to track income and expenses in real-time. Features include dynamic UI updates, data validation, and interactive charts. Deployed using GitHub Pages for seamless access and 99.9% uptime.",
+  //   image:
+  //     "https://raw.githubusercontent.com/arpitbaghla/budget/refs/heads/main/Screenshot%202025-06-15%20at%2022.45.02.png",
+  //   category: "web app",
+  //   github: "https://github.com/arpitbaghla/budget/",
+  //   webapp: "https://arpitbaghla.github.io/budget/",
+  // },
   // {
   //   id: 9,
   //   title: "Trackify",
