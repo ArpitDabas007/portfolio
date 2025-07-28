@@ -469,10 +469,10 @@ export const projects = [
     description:
       "A visually appealing MERN stack expense tracker that allows users to manage incomes and expenses with ease. Built using React with styled-components, it features a responsive dashboard, navigation bar, and separate views for income and expenses. State and data are managed globally using React Context, while a dynamic layout and memoized background animation (Orb) enhance performance and user experience.",
     image:
-      "https://github.com/arpitbaghla/expense-tracker/blob/main/Screenshot%202025-06-29%20at%2022.11.48.png?raw=true",
+      "https://raw.githubusercontent.com/ArpitDabas007/expense-tracker/refs/heads/main/Screenshot%202025-07-28%20182154.png",
     category: "web app",
-    github: "https://github.com/arpitbaghla/expense-tracker",
-    webapp: "https://expenses-arpit.netlify.app/",
+    github: "https://github.com/ArpitDabas007/expense-tracker",
+    webapp: "https://expense-arpit.netlify.app/",
   },
   {
     id: 10,
