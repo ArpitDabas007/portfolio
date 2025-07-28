@@ -481,10 +481,10 @@ export const projects = [
     description:
       "An interactive 3D portfolio website developed using React and Three.js to showcase projects, skills, and experience in a visually engaging format. Integrates smooth animations, responsive design, and modular components to deliver a modern and immersive user experience.",
     image:
-      "https://raw.githubusercontent.com/ArpitDabas007/portfolio/blob/7c403391e9bab1e5a3cc0adc50bb06e29ec8e4a5/image.png",
+      "https://raw.githubusercontent.com/ArpitDabas007/portfolio/7c403391e9bab1e5a3cc0adc50bb06e29ec8e4a5/image.png",
     category: "web app",
-    github: "https://github.com/arpitbaghla/portfolio",
-    webapp: "https://arpitbaghla.netlify.app/",
+    github: "https://github.com/ArpitDabas007/portfolio",
+    webapp: "https://arpitdabas.netlify.app/",
   },
   {
     id: 11,
@@ -495,8 +495,8 @@ export const projects = [
     image:
       "https://raw.githubusercontent.com/arpitbaghla/maze_game/refs/heads/main/Screenshot%202025-06-15%20at%2022.37.28.png",
     category: "web app",
-    github: "https://github.com/arpitbaghla/maze_game",
-    webapp: "https://youtu.be/99WviYV72B0",
+    github: "https://github.com/ArpitDabas007/Maze_Game",
+    webapp: "https://youtu.be/d7JcYSZbrU8",
   },
   {
     id: 9,
