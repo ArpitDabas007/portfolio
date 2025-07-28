@@ -481,7 +481,7 @@ export const projects = [
     description:
       "An interactive 3D portfolio website developed using React and Three.js to showcase projects, skills, and experience in a visually engaging format. Integrates smooth animations, responsive design, and modular components to deliver a modern and immersive user experience.",
     image:
-      "https://raw.githubusercontent.com/arpitbaghla/portfolio/refs/heads/main/Screenshot%202025-06-15%20at%2023.13.03.png",
+      "https://github.com/ArpitDabas007/portfolio/blob/main/image.png",
     category: "web app",
     github: "https://github.com/arpitbaghla/portfolio",
     webapp: "https://arpitbaghla.netlify.app/",
