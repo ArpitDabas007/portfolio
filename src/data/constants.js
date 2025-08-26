@@ -429,7 +429,7 @@ export const education = [
     school: "Delhi Technological University",
     date: "Aug 2022 - July 2026",
     grade: "8.66 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Delhi Technological University. I have completed 6 semesters and have a CGPA of 9.47. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Mathematics and Computing Society at DTU, where I am learning and working on exciting projects with a team of talented developers.",
+    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Delhi Technological University. I have completed 6 semesters and have a CGPA of 8.66. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Mathematics and Computing Society at DTU, where I am learning and working on exciting projects with a team of talented developers.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
   // {
